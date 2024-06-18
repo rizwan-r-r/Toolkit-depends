@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rubocop/rubocop/master/logo/rubo-logo-horizontal-white.png" alt="RuboCop Logo"/>
-</p>
-
-# Dependency Submission Toolkit
+## Dependency Submission Toolkit
 
 `@github/dependency-submission-toolkit` is a TypeScript library for creating
 dependency snapshots and submitting them to the dependency submission API.
